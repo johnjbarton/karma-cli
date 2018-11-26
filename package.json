@@ -29,13 +29,16 @@
   "contributors": [
     "Vojta Jina <vojta.jina@gmail.com>",
     "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+    "rogeriopvl <rogeriopvl@gmail.com>",
     "Jan Raasch <jan@janraasch.com>",
-    "Mark Ethan Trostler <mark@zzo.com>",
+    "Rogério Vicente <rogeriopvl@gmail.com>",
     "Maksim Ryzhikov <rv.maksim@gmail.com>",
-    "Robo <hop2deep@gmail.com>",
+    "Mark Ethan Trostler <mark@zzo.com>",
+    "Piper Chester <piperchester@gmail.com>",
+    "Brian Hann <emailc0bra@gmail.com>",
     "Bas Bosman <github@nazgul.nu>",
-    "deepak1556 <hop2deep@gmail.com>",
-    "Brian Hann <emailc0bra@gmail.com>"
+    "Robo <hop2deep@gmail.com>",
+    "deepak1556 <hop2deep@gmail.com>"
   ],
   "dependencies": {
     "resolve": "^1.3.3"
